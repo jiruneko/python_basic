@@ -1,1 +1,1 @@
-# Deeplearning for python_basic
+# DeepLearning for python_basic
